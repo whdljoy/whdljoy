@@ -15,34 +15,49 @@
 
  ---
  
- <br/>
-<div style="display: flex; justify-content: center; flex-direction: row; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whdljoy&theme=transparent&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
-    <div>
-        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
-        <div style="text-align: left;"> 
-            <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
-            <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white">
-            <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
-            <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white">
-            <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
-            <br>
-            <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white">
-            <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
-            <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
-            <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
-            <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white">
-        </div>
+<br/>
+<br/>
+<br/>
+ 
+<div align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whdljoy&theme=transparent&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10" alt="Most Used Languages">
+  
+  <div align="right">
+    <div align="center">
+      
+  ### MAIN STACK🛠️
+  
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
+      <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white">
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white">
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
+      <br>
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
+      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white">
     </div>
+  </div>
 </div>
 
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/> 
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+ ---
+ 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 [![Solved.ac
