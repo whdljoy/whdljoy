@@ -43,22 +43,19 @@
 </div>
 
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
  ---
- 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
+### Algorithm🔥
+
+<br/>
+<br/>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=whddnjs588)](https://solved.ac/whddnjs588)
